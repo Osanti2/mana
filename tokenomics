@@ -1,0 +1,30 @@
+Principal BEP 20 coin: mana 
+
+The idea is to create a system which can mint mana tokens trough NFTs, and do so in a way that would not be hyperinflationary.
+
+Example:
+NFT - Mana source of the gods
+Qualities...
+Name: fountain of Thor
+Mint rate: 50 mana/day
+Duration: 20 days
+
+You can then use this mana to fight NPCs. NPCs can then drop different kinds of NFTs, including mana sources.
+Most importantly, NPCs can drop fighting NFTs, which can be used to gain strength and to be able to beat stronger adversaries.
+Stronger opponents have a greater chance of dropping a valuable item.
+
+Fighting will happen once per day at most, since we don't wanna have millions of NFTs flodding the marketplace.
+In order to achieve this, fighting NFTs will have stamina that would get drained once the fight happens.
+
+Example:
+NFT - Young elf apprentice
+Exp: 150
+Strength: 400
+Defense: 130
+Stamina remaning: 100%
+
+
+
+
+
+
