@@ -18,13 +18,21 @@ In order to achieve this, fighting NFTs will have stamina that would get drained
 
 Example:
 NFT - Young elf apprentice
-Exp: 150
-Strength: 400
-Defense: 130
+Level: 7
 Stamina remaning: 100%
+Fighting mana cost: 250
 
+(esto hay que verlo, no le veo mucho uso por ahora a las stats de pelea, pero tienen que tener exp o nivel que haga que
+se pueda pelear con monstruos mejores, y stamina para no permitir que peleen todo el tiempo).
 
+Otra opción es que el costo de pelea se duplique cada vez que se pelea, y recién se resetee a los días, como hace alpaca.
 
+---------------------------------------------------------------------------------------------------------------
 
+Burn mechanism:
 
+Key for this to work is the limited time the fountains have. These will make good fighting PJs more valuable, since they will be the ones
+running the game long term. And they will be seek to obtain more fountains.
 
+Fighting mana cost:
+We could have different mana cost for different characters, making the ones which low mana, the most valuable.
