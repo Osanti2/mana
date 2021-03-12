@@ -10,7 +10,13 @@ So there will be a mapping of numbers into item rarity, then a formula will conv
 Variables:
 Sum_of_levels=sum(levelNFT1+LevelNFT2+levelNFT3+...)
 
-Function: mapping
+Rarity setting on NFT drop
+It will behave as an exponential. Weights to be set in the future.
+
+Function: NFT drop
+id= random (1,10000)
+new_rarity=
+
 
 
 
