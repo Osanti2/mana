@@ -8,6 +8,7 @@ Qualities...
 Name: fountain of Thor
 Mint rate: 50 mana/day
 Duration: 20 days
+Rarity level: 5
 
 You can then use this mana to fight NPCs. NPCs can then drop different kinds of NFTs, including mana sources.
 Most importantly, NPCs can drop fighting NFTs, which can be used to gain strength and to be able to beat stronger adversaries.
@@ -21,6 +22,7 @@ NFT - Young elf apprentice
 Level: 7
 Stamina remaning: 100%
 Fighting mana cost: 250
+Rarity level: 27
 
 (esto hay que verlo, no le veo mucho uso por ahora a las stats de pelea, pero tienen que tener exp o nivel que haga que
 se pueda pelear con monstruos mejores, y stamina para no permitir que peleen todo el tiempo).
