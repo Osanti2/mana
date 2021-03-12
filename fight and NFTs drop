@@ -4,8 +4,13 @@ NTFs are dropped whenever a fight happens. The stronger the NPC, the higher the 
 If we wanna have different types of items, then each monster will have different weights.
 
 Formula:
-Probability of dropping item: proportional to sum of all item levels.
+Probability of dropping item: proportional to sum of all item levels. We will have a curve that adjust the item drop based on its rarity.
+So there will be a mapping of numbers into item rarity, then a formula will convert rarity into actual fighting stats / mana source stats.
 
 Variables:
 Sum_of_levels=sum(levelNFT1+LevelNFT2+levelNFT3+...)
-Probability_of_dropping_item
+
+Function: mapping
+
+
+
