@@ -1,1 +1,11 @@
-Pseudocode por NFTs minting, based on current inflation/deflation and probabilty of getting a rare item.
+Pseudocode for NFTs minting, based on current inflation/deflation and probabilty of getting a rare item.
+
+NTFs are dropped whenever a fight happens. The stronger the NPC, the higher the chance the NFTs is dropped.
+If we wanna have different types of items, then each monster will have different weights.
+
+Formula:
+Probability of dropping item: proportional to sum of all item levels.
+
+Variables:
+Sum_of_levels=sum(levelNFT1+LevelNFT2+levelNFT3+...)
+Probability_of_dropping_item
